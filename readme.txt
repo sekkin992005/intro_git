@@ -3,4 +3,4 @@ first git
 
 git add
 git commit
-
+git remove
